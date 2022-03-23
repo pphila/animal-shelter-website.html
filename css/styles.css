@@ -1,0 +1,27 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background: lightskyblue;
+}
+
+h1 {
+  font-style: bold;
+}
+
+h2 {
+  font-style: italic;
+}
+
+.Animals h2 {
+  font-style: normal;
+}
+
+.cat li {
+  border: 2px solid green;
+  padding: 10px;
+  background-color: orange;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 50%;
+  box-sizing: border-box
+}
